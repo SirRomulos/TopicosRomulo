@@ -16,12 +16,6 @@ function App() {
         </a>
       </div>
       <h1>Romulo Augusto da Silva Filho</h1>
-      <div className="card">
-
-        <p>
-          
-        </p>
-      </div>
       <p className="read-the-docs">
         
       </p>
